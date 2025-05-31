@@ -1,5 +1,7 @@
 # Satellite Image Processing: Statistical Equalization Methods
 
+*NB: For a more detailed version of this lab, including the mathematical formulations involved, please refer to the accompanying PDF file !*
+
 ## Claim
 Lab work from Jerome IDIER researcher at CNRS, given during the 'Inverse Imaging' lesson at Ecole Centrale de Nantes, Engineering School.
 
